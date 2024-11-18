@@ -55,4 +55,4 @@ void loop() {
 ### شماتیک مدار 
 
 
-![pic micro](/pic/schematic_1.jpg)
+![pic schematic](/pic/schematic_1.jpg)

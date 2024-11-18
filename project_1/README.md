@@ -47,9 +47,6 @@ void loop() {
 
 ### تصویر مدار
 
-<div align="center">
-<img src="/media/microprocessor_19.gif">
-</div>
 
 ![pic micro](/pic/microprocessor_1.jpg)
 
@@ -57,9 +54,5 @@ void loop() {
 
 ### شماتیک مدار 
 
-<br>
 
-<div align="center">
-<img src="/media/schematic_17.jpg" width="600px" height="500px">
-</div>
 ![pic micro](/pic/schematic_1.jpg)

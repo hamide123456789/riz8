@@ -50,6 +50,7 @@ void loop() {
 <div align="center">
 <img src="/media/microprocessor_19.gif">
 </div>
+
 ![pic micro](/pic/microprocessor_1.jpg)
 
 ---

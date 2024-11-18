@@ -5,17 +5,17 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite(9, HIGH);  // full speed forward
+  digitalWrite(9, HIGH);  
   digitalWrite(8, LOW);
   analogWrite(10, HIGH);
   delay(1000);
 
-  digitalWrite(9, LOW); // full speed backward
+  digitalWrite(9, LOW);
   digitalWrite(8, HIGH);
   analogWrite(10, i);
   delay(1000);
 
-  for (int i=0; i<256; i++) {  // increased speed forward
+  for (int i=0; i<256; i++) {  
   digitalWrite(9, HIGH);
   digitalWrite(8, LOW);
   analogWrite(10, i);
@@ -23,7 +23,7 @@ void loop() {
   }
   delay(50);
 
-  for (int i=0; i<256; i++) { // increased speed backward
+  for (int i=0; i<256; i++) {
   digitalWrite(9, LOW);
   digitalWrite(8, HIGH);
   analogWrite(10, i);
